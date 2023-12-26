@@ -18,7 +18,7 @@ After installing the actions there are a few things you'll need to setup in OBS 
 
 This action will suspend all the actions in the `First Time Chat Actions` group after a raid happens for 1 minute. This way when a large raid happens all the new users we won't get a flood of triggers for this action.
 
-To extend this modify the delay, not that the delay is in milliseconds (`MS`)
+To extend this modify the delay - _note that the delay is in milliseconds (`MS`)_
 
 ### First time chat trigger
 
