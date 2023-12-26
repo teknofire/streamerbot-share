@@ -16,13 +16,13 @@ After installing the actions there are a few things you'll need to setup in OBS 
 
 ### Raid Suspend FTC
 
-This action will suspend all the actions in the "First Tiem Chat Actions" group after a raid happens for 1 minute. This way when a large raid happens all the new users we won't get a flood of triggers for this action.
+This action will suspend all the actions in the `First Time Chat Actions` group after a raid happens for 1 minute. This way when a large raid happens all the new users we won't get a flood of triggers for this action.
 
-To extend this modify the delay, not that the delay is in milliseconds (MS)
+To extend this modify the delay, not that the delay is in milliseconds (`MS`)
 
 ### First time chat trigger
 
-This is used to detect when a user chats for the first time in twitch chat. Nothing needs to be modified here. When a new chatter is found it will execute the "First time chat display" action.
+This is used to detect when a user chats for the first time in twitch chat. Nothing needs to be modified here. When a new chatter is found it will execute the `First time chat display` action.
 
 ### First time chat display
 
