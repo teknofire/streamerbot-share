@@ -33,3 +33,9 @@ This is an example of what can be done.
 1. Will modify the content of a GDI Text overlay with some text with the users name and a message.
 2. Display some other overlays like a icon or personal image at the same time for 
 
+### Toggle FTC
+
+Toggles all the actions in the `First Time Chat Actions` group to manually disable all the FTC actions. 
+
+* Defaults to using a chat command `!ftc` which is restricted to moderators only.
+* Another option is to add a StreamDeck button using the `streamer.bot` plugin for StreamDecks
