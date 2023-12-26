@@ -6,6 +6,8 @@ This is really just an example of how it can be done and would need to be highly
 
 ## Setup 
 
+Download the `first-time-chatter.txt` and import into Streamer.Bot
+
 After installing the actions there are a few things you'll need to setup in OBS to handle the actions.
 
 1. A GDI Text overlay that will be used to display a message on stream. You will need to modify the `First time chat display` -> `OBS GDI Text` sub-action in order to specify the scene and source for this in Streamerbot.
